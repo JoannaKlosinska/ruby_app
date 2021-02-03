@@ -18,7 +18,7 @@ If you would like to run this script, just write in the terminal:
 ```
 $ ruby parser.rb webserver.log
 ```
-If you would like to run test suite, write:
+If you would like to run the test suite, write:
 ```
 $ rspec
 ```
