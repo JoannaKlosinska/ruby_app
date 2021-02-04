@@ -5,10 +5,10 @@ parser.parse
 
 puts "---------"
 puts "Most visits:"
-parser.paths_sorted_by_visits.each { |x| puts x }
+puts parser.paths_sorted_by_visits
 puts "---------"
 puts "Most unique visits:"
-parser.paths_sorted_by_unique_visits.each { |x| puts x }
+puts parser.paths_sorted_by_unique_visits
 puts "---------"
 
 
